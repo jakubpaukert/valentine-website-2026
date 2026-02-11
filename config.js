@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Další ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Budeš moje Valentýnka 14. února 2026? 🌹", // The big question!
+            yesBtn: "Ano!",                                             // Text for "Yes" button
+            noBtn: "Ne"                                                 // Text for "No" button
         }
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://youtu.be/C0Hk4WPcbC8?si=EGkdfvl6MvPou_5B&t=13", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/diwwrsnky/video/upload/v1770830996/Valentine2026_ysumdy.mov", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
