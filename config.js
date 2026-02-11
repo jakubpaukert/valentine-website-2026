@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Jak moc mě máš ráda?",                                    // First interaction
+            text: "Máš mě ráda?",                                    // First interaction
             yesBtn: "Ano",                                             // Text for "Yes" button
             noBtn: "Ne",                                               // Text for "No" button
             secretAnswer: "Nemám Tě ráda, ale miluju Tě! ❤️"           // Secret hover message
